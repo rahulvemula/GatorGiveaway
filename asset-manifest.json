@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GatorGiveaway/static/css/main.91fac9e9.css",
+    "main.js": "/GatorGiveaway/static/js/main.b8741f80.js",
+    "static/js/787.cda612ba.chunk.js": "/GatorGiveaway/static/js/787.cda612ba.chunk.js",
+    "index.html": "/GatorGiveaway/index.html",
+    "main.91fac9e9.css.map": "/GatorGiveaway/static/css/main.91fac9e9.css.map",
+    "main.b8741f80.js.map": "/GatorGiveaway/static/js/main.b8741f80.js.map",
+    "787.cda612ba.chunk.js.map": "/GatorGiveaway/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91fac9e9.css",
+    "static/js/main.b8741f80.js"
+  ]
+}
